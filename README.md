@@ -1,8 +1,7 @@
-# React + Vite
+## Public Folder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The public folder used in this project can be downloaded from the following link:
 
-Currently, two official plugins are available:
+[Download Public Folder](https://drive.google.com/drive/folders/1SwusnHUc6vptwhdzdCuQrkL2fQvpKTqp?usp=drive_link)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
